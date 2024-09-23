@@ -3,9 +3,6 @@ import cv2
 import time
 import imutils
 from PIL import Image
-import streamlit as st
-from streamlit_webrtc import webrtc_streamer
-import av
 import numpy as np
 import dlib
 from imutils import face_utils
