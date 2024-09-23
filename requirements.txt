@@ -2,5 +2,5 @@ streamlit
 opencv-python-headless 
 pillow
 numpy
-dlib
+dlib-bin
 imutils
